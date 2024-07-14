@@ -7,7 +7,7 @@ int binarySearch(int *list, int item)
     int max = sizeof(list) - 1;
     while (min <= max)
     {
-        int center = (min - max) / 2;
+        int center = (min + max) / 2;
         int guess = list[center];
         if (guess == item)
         {
@@ -30,4 +30,6 @@ int binarySearch(int *list, int item)
 
     std::cout << binarySearch(myList, 3) << std::endl;
     std::cout << binarySearch(myList, -1) << std::endl;
+
+    return 0;
  }
