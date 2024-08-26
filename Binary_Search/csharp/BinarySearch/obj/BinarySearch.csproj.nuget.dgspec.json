@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\walte\\Documents\\Algorithms\\Binary_Search\\csharp\\BinarySearch\\BinarySearch.csproj": {}
+    "/home/walter-alipio/Documents/Algorithms/Binary_Search/csharp/BinarySearch/BinarySearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\walte\\Documents\\Algorithms\\Binary_Search\\csharp\\BinarySearch\\BinarySearch.csproj": {
+    "/home/walter-alipio/Documents/Algorithms/Binary_Search/csharp/BinarySearch/BinarySearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\walte\\Documents\\Algorithms\\Binary_Search\\csharp\\BinarySearch\\BinarySearch.csproj",
+        "projectUniqueName": "/home/walter-alipio/Documents/Algorithms/Binary_Search/csharp/BinarySearch/BinarySearch.csproj",
         "projectName": "BinarySearch",
-        "projectPath": "C:\\Users\\walte\\Documents\\Algorithms\\Binary_Search\\csharp\\BinarySearch\\BinarySearch.csproj",
-        "packagesPath": "C:\\Users\\walte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\walte\\Documents\\Algorithms\\Binary_Search\\csharp\\BinarySearch\\obj\\",
+        "projectPath": "/home/walter-alipio/Documents/Algorithms/Binary_Search/csharp/BinarySearch/BinarySearch.csproj",
+        "packagesPath": "/home/walter-alipio/.nuget/packages/",
+        "outputPath": "/home/walter-alipio/Documents/Algorithms/Binary_Search/csharp/BinarySearch/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\walte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/walter-alipio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,11 +32,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.107/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
