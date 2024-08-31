@@ -1,0 +1,15 @@
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/bin/Debug/net8.0/Bfs
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/bin/Debug/net8.0/Bfs.deps.json
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/bin/Debug/net8.0/Bfs.runtimeconfig.json
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/bin/Debug/net8.0/Bfs.dll
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/bin/Debug/net8.0/Bfs.pdb
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.GeneratedMSBuildEditorConfig.editorconfig
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.AssemblyInfoInputs.cache
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.AssemblyInfo.cs
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.csproj.CoreCompileInputs.cache
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.sourcelink.json
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.dll
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/refint/Bfs.dll
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.pdb
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/Bfs.genruntimeconfig.cache
+/home/walter-alipio/Documents/Algorithms/Graph/Breadth_First_Search/csharp/bfs/Bfs/obj/Debug/net8.0/ref/Bfs.dll
