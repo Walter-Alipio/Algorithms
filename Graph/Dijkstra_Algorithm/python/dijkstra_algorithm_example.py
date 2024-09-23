@@ -1,3 +1,5 @@
+from d_algorithm import Dijkstra_algorithm
+
 
 graph = {}
 graph["start"] = {}
@@ -24,34 +26,10 @@ parents["a"] = "start"
 parents["b"] = "start"
 parents["end"] = None
 
-done = []
+alg = Dijkstra_algorithm(graph, costs, parents)
 
-def dijkstra_alg():
-    node = find_lowest_in_costs(costs)
-    while node is not None:
-        cost = costs[node]
-        neighbors = graph[node]
-        for n in neighbors.keys():
-            new_cost = cost + neighbors[n]
-            if costs[n] > new_cost:
-                costs[n] = new_cost
-                parents[n] = node
-        done.append(node)
-        node = find_lowest_in_costs(costs)
+result = alg.run()
 
-
-def find_lowest_in_costs(costs):
-    lowest_cost = float("inf")
-    node_lowest_cost = None
-    for node in costs:
-        cost = costs[node]
-        if cost < lowest_cost and node not in done:
-            lowest_cost = cost
-            node_lowest_cost = node
-    return node_lowest_cost
-
-dijkstra_alg()
-
-print(costs)
+print("The fast way to get to end costs:" ,result["end"])
 
 
